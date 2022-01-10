@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kacpe/OneDrive/SM/8/Systemy-Mobilne-Zadanie-8/app/src/main/res/drawable-anydpi-v24/ic_action_name.xml" value="0.346875" />
+        <entry key="..\:/Users/kacpe/OneDrive/SM/8/Systemy-Mobilne-Zadanie-8/app/src/main/res/layout/activity_sensor_details.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/kacpe/OneDrive/SM/8/Systemy-Mobilne-Zadanie-8/app/src/main/res/layout/sensor_activity.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/kacpe/OneDrive/SM/8/Systemy-Mobilne-Zadanie-8/app/src/main/res/layout/sensor_item_list.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/kacpe/OneDrive/SM/8/Systemy-Mobilne-Zadanie-8/app/src/main/res/menu/sensor_menu.xml" value="0.3307291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
